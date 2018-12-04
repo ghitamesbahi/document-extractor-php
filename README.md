@@ -1,2 +1,2 @@
 # document-extractor-php
-PHP code to extract Images and Text from Open XML Word, Power Point and PDF file. Extraction from PDF files requires some dependencies.
+Code PHP pour extraire des images et du texte depuis Open XML Word, PowerPoint et un fichier PDF. L'extraction à partir de fichiers PDF nécessite certaines dépendances.
